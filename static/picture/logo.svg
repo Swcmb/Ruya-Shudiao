@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="184"
+   height="39"
+   viewBox="0 0 184 39"
+   fill="none"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="5.3858696"
+     inkscape:cx="92"
+     inkscape:cy="19.495459"
+     inkscape:window-width="1440"
+     inkscape:window-height="830"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <rect
+     x="-29.591396"
+     y="4.33564"
+     width="19.7654"
+     height="35.2957"
+     rx="9.8826904"
+     transform="rotate(-89.172831)"
+     fill="#155bd5"
+     id="rect1"
+     style="fill:#784421" />
+  <path
+     opacity="0.5"
+     d="m 21.694619,1.627489 7.102357,7.1897717 -14.292092,-0.08745 z"
+     fill="#155bd5"
+     id="path1"
+     style="fill:#de8787" />
+  <path
+     d="m 21.205782,38.106556 -7.07416,-7.217586 14.291746,0.143425 z"
+     fill="#155bd5"
+     id="path2"
+     inkscape:transform-center-x="4.3441014"
+     inkscape:transform-center-y="-2.1305734"
+     style="fill:#241f1c" />
+  <text
+     xml:space="preserve"
+     style="white-space:pre;inline-size:97.0184;fill:#000000"
+     x="40.84763"
+     y="16.896065"
+     id="text10"
+     transform="matrix(1.4299736,-0.01089787,-0.00964519,2.0213241,-17.50537,-5.9724524)"
+     inkscape:transform-center-x="6.2205939"
+     inkscape:transform-center-y="-10.317637"><tspan
+       x="40.84763"
+       y="16.896065"
+       id="tspan2"><tspan
+         style="font-size:12px;font-family:YouYuan;-inkscape-font-specification:'YouYuan, Normal'"
+         id="tspan1">中心</tspan></tspan></text>
+</svg>
